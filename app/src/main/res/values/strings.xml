@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MasActivities</string>
+    <string name="btn_llamar">Llamar por telefono</string>
+    <string name="nueva_activity">Nueva Activity</string>
+    <string name="lb_segunda_activity">Yo soy la segunda Activity</string>
+    <string name="btn_resultado">Enviar Resultado</string>
+    <string name="btn_tercera_activity">Esperar resultado</string>
+</resources>
